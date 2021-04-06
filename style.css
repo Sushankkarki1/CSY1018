@@ -1,0 +1,28 @@
+body{
+	margin: 200px;
+	font-size: 35px;
+}
+
+.main{
+	background-color: yellow;
+	text-align: center;
+	font-size: 18px;
+	color: black;
+	margin: 35px; 
+	padding: 10px;
+}
+.maintext{
+	background-color: #30fff1;
+	margin: 30px; 
+
+	margin-right: 35px;
+	margin-top: 15px;
+	margin-left: 35px;
+	margin-bottom: 35px;
+}
+.foot{
+	background-color: blue;
+	text-align: center;
+	margin: 35px;
+	padding: 20px;
+}
