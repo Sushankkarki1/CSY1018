@@ -1,0 +1,73 @@
+body{
+	margin: 50px;
+}
+.logo{
+	background-color: blue;
+	width: 50%;
+	height: 69px;
+	float: left;
+
+}
+.email{
+	background-color: green;
+	float: right;
+	width: 50%;
+	height: 69px;
+	margin-bottom: 10px;
+
+}
+
+#third{
+	clear: both;
+	background-color: red;
+	padding: 20px;
+	margin-bottom: 10px;
+
+}
+#fm{
+	background-color: #ded70b;
+	width: 80px;
+	height: 40px;
+}
+#sm{
+	background-color: #ded70b;
+	width: 90px;
+	height: 40px;   
+	margin-left: 100px;
+    margin-top: -40px;
+}
+#tm{
+	background-color: #ded70b;
+	width: 80px;
+	height: 40px;
+	margin-left: 210px;
+	margin-top: -40px;
+}
+#ffm{
+	background-color: #ded70b;
+	width: 80px;
+	height: 40px;
+	margin-left: 310px;
+	margin-top: -40px;
+}
+#green{
+	background-color: blue;
+	width: 30%;
+	height: 69px;
+	float: left;
+	margin-bottom: 10px;
+}
+#blue{
+	background-color: green;
+	width: 70%;
+	height: 69px;
+	float: right;
+	margin-bottom: 10px;
+}
+#foot{
+	background-color: yellow;
+	text-align: center;
+	clear: both;
+	height: 69px;
+	
+}
