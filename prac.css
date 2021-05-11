@@ -1,0 +1,25 @@
+body{
+	background-color: purple;
+	
+}
+.First{
+	background-color: #805b8d;
+	margin: 0px;
+
+}
+.left{
+	background-color: lightblue;
+	float: left;
+	width: 50%;
+	height: 100px;
+}
+.right{
+	background-color: #5a155a;
+	float: right;
+	width: 50%;
+	height: 100px;
+}
+.foot{
+	background-color: #4d0068;
+	height: 130px;
+}

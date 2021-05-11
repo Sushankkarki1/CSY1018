@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>week8</title>
+	<link rel="stylesheet" type="text/css" href="week8.css">
+</head>
+<body>
+	<form action="" method="GET">
+		<fieldset>
+			<legend>Form</legend>
+		<fieldset>
+			<legend>PF</legend>
+			FirstName: <br>
+			<input type="Text" name="Firstname" placeholder="Firstname" required="required" class="b"><br><!-- text le text lekhxa --><!-- Value dida ni hunxa nadida ni hunxa --> <!-- required/readonly/disable pani garna milxa if garnu paryo vaney -->
+			LastName: <br>
+			<input type="Text" name="Secondname" placeholder="Secondname" class="b"><br><br><!-- placeholder le suggest garxa -->
+			
+		</fieldset><!-- Box banauxa  -->
+		<fieldset>
+			<legend>Sex</legend>
+			<input type="Radio" name="Gender" value="M">Male<!-- radio le select anyone only -->
+			<input type="Radio" name="Gender" value="F">Female
+			<input type="Radio" name="Gender" value="O">Other
+		</fieldset>
+		<fieldset>
+			<legend>Gf num</legend>
+				<select name="num" style="width: 200px" class="b"><!-- drop down menu -->
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+		</fieldset>
+		
+		Username/Email:<br>
+		<input type="text" name="username" placeholder="email" class="b"><br> <!-- textgareni hunxa email gareni hunxa -->
+
+		Password:<br>
+		<input type="password" name="password" placeholder="password" class="b"><br><br>
+		
+		<fieldset>
+			<legend>Dream</legend>
+			<input type="checkbox" name="High">Kawasaki<br>
+			<input type="checkbox" name="Medium">BMW<br>
+			<input type="checkbox" name="Low">Hero Honda
+		</fieldset><!-- multiple select garna pauxa -->
+		<fieldset>
+			<legend>Color</legend>
+			<input type="color" name="colorselect" class="b"><!-- color selection -->
+		</fieldset>	
+		Date<br>
+		<input type="date" name="userdate" min="1990-01-01" max="2030-01-01" class="b"><br><!-- calendar banxa -->
+
+		Age<br>
+		<input type="number" name="num" min="10" max="50" class="b"><br><!-- number ko -->
+
+		Time<br>
+		<input type="time" name="T" class="b"><br><!-- timeko -->
+
+		Textarea<br>
+		<textarea name="add" rows="4" cols="200" class="b">
+			
+		</textarea><!-- Textarea chaina -->
+		<input type="Submit" name="Submit" class="s">
+		<input type="Reset" name="Reset" class="r"><!-- Button banxa -->
+		</fieldset>
+	</form>
+
+</body>
+</html>

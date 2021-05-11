@@ -1,0 +1,67 @@
+body{
+	background-color: #ffcb31;
+	margin: 0px;					/*to make it stick to the end of the browser*/
+}
+.menu{
+	width: 30px;
+	height: 20px;
+	viewbox: 0px 0px 24px 24px;
+}
+#text1{
+	background-color:#f7bc0b;
+	font-size: 50px;
+	padding-left: 10px;
+}
+
+#text2{
+	background-color: #f7bc0b;
+	font-size: 20px;
+	margin-top: 134px;
+}
+
+.photos{
+	padding-top: 134px;
+	padding-left: 275px;
+}
+
+#nep1{
+	width: 252px;
+    height: 252px;
+    box-shadow: 5px 5px #afaea8;	/*right bottom color*/
+    margin-left: 20px;
+}
+
+#nep2{
+	width: 252px;
+    height: 252px;
+    box-shadow: 5px 5px #afaea8;		/*right bottom color*/
+    margin-left: 20px;
+}
+
+#nep3{
+	width: 252px;
+    height: 252px;
+    box-shadow: 5px 5px #afaea8;		/*right bottom color*/
+    margin-left: 20px;
+}
+
+.top_nav{
+	display: flex;
+	padding: 20px;
+	background-color: #cb9b10;
+	cursor: pointer;
+}
+
+#search{
+    width: 500px;
+    height: 20px;
+    margin-left: 351px;
+    /*background-color: #cb9b10;*/
+}
+
+#logo{
+	height: 35px;
+	width: 35px;
+    margin-left: 32%;
+
+}

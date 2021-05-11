@@ -1,0 +1,42 @@
+.h{
+	background-color: #693dff;
+	width: 100%;
+	height:40px;
+	text-align: center;
+	margin-bottom: 0px;
+}
+.n{
+	background-color: #44c5ef;
+	width: 100%;
+	height: 35px;
+	text-align: center;
+	font-size: 0.5cm;
+}	
+.flex{
+	display: flex;
+}
+.m{
+	background-color: #ffff00;
+	height: 300px;
+	width: 50%;
+	text-align: center;
+	font-size: 3cm;
+}
+.a{
+	background-color: #3cff3c;
+	width: 50%;
+	height: 300px;
+	text-align: center;
+	font-size: 3cm;
+}
+footer{
+	background-color: #bebeff;
+	width: 100%;
+	height: 40px;
+	text-align: center;
+	font-size: 1cm;
+}
+@media screen and (max-width: 500px){
+	body{
+	background-color:#b7ffa3;
+}

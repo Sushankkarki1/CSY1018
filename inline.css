@@ -1,0 +1,35 @@
+.h{
+	background-color: blue;
+	text-align: center;
+	width: 50%;
+	height: 22px;
+	padding: 10px;
+	margin-bottom: 0px;
+}
+.thi{
+	background-color: black;
+	width: 50%;
+	height: 22px;
+	padding: 10px;
+}
+#First{
+	background-color: red;
+	display: inline;
+}
+#second{
+	background-color: red;
+	display: inline;
+	margin-left: 260px; 
+}
+#third{
+	background-color: red;
+	display: inline;
+	float: right;
+}
+.c{
+	background-color: blue;
+	text-align: center;
+	width: 50%;
+	height: 22px;
+	padding: 10px;
+}

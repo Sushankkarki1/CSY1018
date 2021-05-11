@@ -1,0 +1,21 @@
+tr,td{
+	border:2px solid black;
+}
+.box{
+	border:1px solid black;
+	/*border-collapse: collapse;*/
+	background-color: red; /*table ko yeta samma*/
+
+}
+.YTB{
+	background-color: blue;
+	border: 1px solid red;
+	width: 40px;
+	box-shadow: 3px 3px;/*yo extra */
+}
+#ts{
+	background-color: red;
+	border: 1px solid blue;
+	width: 40px;/*ordered list ra unordered list*/
+	box-shadow: 5px 5px;/*yo extra */
+}
