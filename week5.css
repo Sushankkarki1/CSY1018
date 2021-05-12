@@ -4,7 +4,7 @@ body{
 }
 .o{
 	text-align: center;
-	background-color: lightgreen;
+	background-color: white;
 }
 .j{
 	display: block;
@@ -33,5 +33,5 @@ body{
 	width: 295px;
 	font-weight:bold;
 	font-size: 25px;
-	background-color: yellow;
+	background-color: #1880a2;
 }

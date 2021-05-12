@@ -1,0 +1,12 @@
+body{
+	background-image: url(img/30.jpg);
+	background-size: 135%;
+	backdrop-filter: blur(2px);
+}
+.s:hover{
+	background-color: #45e927;
+}
+.c{
+	margin-top: 100px;
+	margin-left: 200px;
+}
