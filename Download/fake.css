@@ -1,0 +1,58 @@
+body{
+	background-image: url(2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover; 
+	margin: 0px;
+}
+nav{
+	text-align: right;
+	background-color: black;
+	font-size: 25px;
+	
+    height: 45px;
+    padding-top: 20px;
+    margin-top: -8px;
+	
+}
+.u{
+	text-decoration: none;
+	padding-right: 50px;
+}
+.u:hover{
+	color: white;
+}
+.Email{
+	text-align: center;
+	margin-left: 300px;
+	margin-top: 30px;
+	margin-right:300px;
+	color: white;
+	
+}
+.b{
+	margin-top: 200px;
+}
+.c{
+	backdrop-filter:blur(4px); /*to blur background-color*/
+}
+.first{
+	width:250px; /*other contact box*/
+}
+.s:hover{
+	background-color: #00ff1a69;
+}
+.nt{ 
+	color: grey;
+	text-align: right;
+    margin-top: -500px;
+    margin-right: 10px; /*my info*/
+}
+@media screen and (max-width: 700px){
+	body{
+	/*background-image: url(2.jpg);*/
+	/*background-repeat: no-repeat;*/
+	/*background-color: red;*/
+	background-size: cover; 
+	margin: 0px;
+}
+}
